@@ -11,8 +11,7 @@ No known issues, project passes each of the provided test cases in StringUtilsTe
 * [Different ways to initialize variables](https://stackoverflow.com/questions/22543875/different-ways-to-initialize-variables)
 
 ## Generative AI Use
-// Prompted AI with general syntax conversions from C -> C++
-// Prompted AI with error messages to determine cause and or recommended steps
+// N/A
 
 ### Changes 1
 // N/A
